@@ -1,5 +1,5 @@
 Hi :)
 
-This is a neural network that I've wrote from scratch/
+This is a neural network that I've Developed from scratch
 
-fell free to use it
+feel free to use it.
